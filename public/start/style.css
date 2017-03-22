@@ -1,0 +1,44 @@
+.panel.panel-black {
+    border-color: black;
+    color: #fff;
+    background-color: black;
+}
+.panel-black a:hover {
+    color: #808080;
+}
+.panel-black a {
+    color: #000 ;
+}
+.panel.panel-pink {
+    border-color: #a65959;
+    color: #fff;
+    background-color: #a65959;
+}
+.panel-pink a:hover {
+    color: #b94646;
+}
+.panel-pink a {
+    color: 	#996666 ;
+}
+.panel.panel-gray {
+    border-color: #808080;
+    color: #fff;
+    background-color: #808080;
+}
+.panel-gray a:hover {
+    color: black;
+}
+.panel-gray a {
+    color: 	#808080 ;
+}
+.panel.panel-purple {
+    border-color: #ff99ff;
+    color: #fff;
+    background-color: #ff99ff;
+}
+.panel-purple a:hover {
+    color: #ff66cc;
+}
+.panel-purple a {
+    color: 	#ff99ff ;
+}

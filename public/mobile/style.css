@@ -1,0 +1,15 @@
+.frame-border{
+    margin: 0px;
+    margin-top: 20px; 
+    width: 298px;
+    height: 561px;
+}
+.main-row{
+    text-align: inherit;
+}
+.modal-backdrop {
+    z-index: 1001 !important;
+}
+.modal-backdrop.in {
+    opacity: -0.5 !important;
+}
